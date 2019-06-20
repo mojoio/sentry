@@ -5,7 +5,6 @@ import * as plugins from './sentry.plugins';
  */
 export interface ISentryConstructorOptions {
   appName: string;
-
   dsn: string;
 }
 
