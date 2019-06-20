@@ -1,6 +1,6 @@
 {
   "name": "@mojoio/sentry",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "an unofficial abstraction package for sentry.io",
   "main": "dist/index.js",
