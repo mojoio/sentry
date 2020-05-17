@@ -1,4 +1,15 @@
 {
+  "gitzone": {
+    "projectType": "npm",
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "mojoio",
+      "gitrepo": "sentry",
+      "shortDescription": "an unofficial abstraction package for sentry.io",
+      "npmPackagename": "@mojoio/sentry",
+      "license": "MIT"
+    }
+  },
   "npmci": {
     "npmGlobalTools": [],
     "npmAccessLevel": "public"
